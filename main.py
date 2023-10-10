@@ -10,3 +10,5 @@ def kinyomtat(v):
         print(i)
 
 kinyomtat(a)
+print(a)
+

@@ -9,6 +9,10 @@ def kinyomtat(v):
     for i in v:
         print(i)
 
+<<<<<<< HEAD
 kinyomtat(a)
 print(a)
 
+=======
+kinyomtat(b)
+>>>>>>> 89e1a392a8bf811fae4ccdfcfe199cd6e0c1f68e
